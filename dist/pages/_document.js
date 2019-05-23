@@ -555,7 +555,7 @@ function (_react_1$Component5) {
       try{
         __NEXT_DATA__.props = {};
         __NEXT_DATA__.initialReduxState  = {};
-      }catch{
+      }catch(err){
 
       }
 
